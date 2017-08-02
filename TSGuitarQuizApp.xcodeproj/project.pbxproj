@@ -7,14 +7,82 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AB0CD63E1F2734B90046C717 /* button_icon_black.png in Resources */ = {isa = PBXBuildFile; fileRef = AB0CD63D1F2734B90046C717 /* button_icon_black.png */; };
+		AB0CD6441F2757180046C717 /* note_icon_1.png in Resources */ = {isa = PBXBuildFile; fileRef = AB0CD6431F2757180046C717 /* note_icon_1.png */; };
+		AB0CD6571F2760750046C717 /* menu_icon_5lines_gray.png in Resources */ = {isa = PBXBuildFile; fileRef = AB0CD6531F2760750046C717 /* menu_icon_5lines_gray.png */; };
+		AB0CD6581F2760750046C717 /* menu_icon_frameset_gray.png in Resources */ = {isa = PBXBuildFile; fileRef = AB0CD6541F2760750046C717 /* menu_icon_frameset_gray.png */; };
+		AB0CD6591F2760750046C717 /* menu_icon_metronorm_gray.png in Resources */ = {isa = PBXBuildFile; fileRef = AB0CD6551F2760750046C717 /* menu_icon_metronorm_gray.png */; };
+		AB0CD65A1F2760750046C717 /* menu_icon_start_gray.png in Resources */ = {isa = PBXBuildFile; fileRef = AB0CD6561F2760750046C717 /* menu_icon_start_gray.png */; };
+		AB0CD65C1F27621F0046C717 /* music_background_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB0CD65B1F27621F0046C717 /* music_background_2.jpg */; };
+		AB0CD66A1F27754E0046C717 /* note_icon_1_darkblue.png in Resources */ = {isa = PBXBuildFile; fileRef = AB0CD6651F27754E0046C717 /* note_icon_1_darkblue.png */; };
+		AB0CD66B1F27754E0046C717 /* note_icon_1_gray.png in Resources */ = {isa = PBXBuildFile; fileRef = AB0CD6661F27754E0046C717 /* note_icon_1_gray.png */; };
+		AB0CD66C1F27754E0046C717 /* note_icon_1_green.png in Resources */ = {isa = PBXBuildFile; fileRef = AB0CD6671F27754E0046C717 /* note_icon_1_green.png */; };
+		AB0CD66D1F27754E0046C717 /* note_icon_1_orange.png in Resources */ = {isa = PBXBuildFile; fileRef = AB0CD6681F27754E0046C717 /* note_icon_1_orange.png */; };
+		AB0CD66E1F27754E0046C717 /* note_icon_1_yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = AB0CD6691F27754E0046C717 /* note_icon_1_yellow.png */; };
+		AB0CD6701F278D3B0046C717 /* title_logo_under.png in Resources */ = {isa = PBXBuildFile; fileRef = AB0CD66F1F278D3B0046C717 /* title_logo_under.png */; };
+		AB0CD6721F278DA40046C717 /* title_logo_upper.png in Resources */ = {isa = PBXBuildFile; fileRef = AB0CD6711F278DA40046C717 /* title_logo_upper.png */; };
+		AB0CD6741F27C6120046C717 /* black_background_1.png in Resources */ = {isa = PBXBuildFile; fileRef = AB0CD6731F27C6120046C717 /* black_background_1.png */; };
+		AB0CD6761F27C8B80046C717 /* blue_background_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB0CD6751F27C8B80046C717 /* blue_background_2.jpg */; };
+		AB0CD6781F2829F50046C717 /* ios in Resources */ = {isa = PBXBuildFile; fileRef = AB0CD6771F2829F50046C717 /* ios */; };
+		AB0CD67A1F2F3B100046C717 /* g_Geonekomoji_free.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AB0CD6791F2F3B100046C717 /* g_Geonekomoji_free.ttf */; };
 		AB2AD6FE1F20737A00C31F4A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2AD6FD1F20737A00C31F4A /* AppDelegate.swift */; };
 		AB2AD7001F20737A00C31F4A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2AD6FF1F20737A00C31F4A /* ViewController.swift */; };
 		AB2AD7031F20737A00C31F4A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB2AD7011F20737A00C31F4A /* Main.storyboard */; };
 		AB2AD7051F20737A00C31F4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB2AD7041F20737A00C31F4A /* Assets.xcassets */; };
 		AB2AD7081F20737A00C31F4A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB2AD7061F20737A00C31F4A /* LaunchScreen.storyboard */; };
+		AB2AD7131F20789800C31F4A /* MenuTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2AD7111F20789800C31F4A /* MenuTableViewCell.swift */; };
+		AB2AD7141F20789800C31F4A /* MenuTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = AB2AD7121F20789800C31F4A /* MenuTableViewCell.xib */; };
+		AB2AD7161F207C6000C31F4A /* KB.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2AD7151F207C6000C31F4A /* KB.swift */; };
+		AB2AD7181F20942D00C31F4A /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2AD7171F20942D00C31F4A /* MenuViewController.swift */; };
+		AB2AD71A1F20944300C31F4A /* QuizTypeSelectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2AD7191F20944300C31F4A /* QuizTypeSelectViewController.swift */; };
+		AB2AD71C1F20946A00C31F4A /* QuizFret2ToneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2AD71B1F20946A00C31F4A /* QuizFret2ToneViewController.swift */; };
+		AB2AD71E1F20947A00C31F4A /* QuizTone2FretViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2AD71D1F20947A00C31F4A /* QuizTone2FretViewController.swift */; };
+		AB2AD7201F20949400C31F4A /* QuizResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2AD71F1F20949400C31F4A /* QuizResultViewController.swift */; };
+		AB2AD7221F2094A500C31F4A /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2AD7211F2094A500C31F4A /* SettingsViewController.swift */; };
+		AB2AD7241F2094B300C31F4A /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2AD7231F2094B300C31F4A /* ProfileViewController.swift */; };
+		AB2AD7291F20950200C31F4A /* QuizTypeSelectTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2AD7271F20950200C31F4A /* QuizTypeSelectTableViewCell.swift */; };
+		AB2AD72A1F20950200C31F4A /* QuizTypeSelectTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = AB2AD7281F20950200C31F4A /* QuizTypeSelectTableViewCell.xib */; };
+		AB2AD72D1F20951E00C31F4A /* QuizFret2ToneTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2AD72B1F20951E00C31F4A /* QuizFret2ToneTableViewCell.swift */; };
+		AB2AD72E1F20951E00C31F4A /* QuizFret2ToneTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = AB2AD72C1F20951E00C31F4A /* QuizFret2ToneTableViewCell.xib */; };
+		AB2AD7311F20952F00C31F4A /* QuizTone2FretTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2AD72F1F20952F00C31F4A /* QuizTone2FretTableViewCell.swift */; };
+		AB2AD7321F20952F00C31F4A /* QuizTone2FretTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = AB2AD7301F20952F00C31F4A /* QuizTone2FretTableViewCell.xib */; };
+		AB2AD7351F20954900C31F4A /* QuizResultTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2AD7331F20954900C31F4A /* QuizResultTableViewCell.swift */; };
+		AB2AD7361F20954900C31F4A /* QuizResultTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = AB2AD7341F20954900C31F4A /* QuizResultTableViewCell.xib */; };
+		AB41DFCC1F26DF1D005A4B1C /* quiz_result_failure_icon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB41DFCA1F26DF1D005A4B1C /* quiz_result_failure_icon.jpg */; };
+		AB41DFCD1F26DF1D005A4B1C /* quiz_result_success_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = AB41DFCB1F26DF1D005A4B1C /* quiz_result_success_icon.png */; };
+		AB41DFCF1F2704EB005A4B1C /* music-back.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB41DFCE1F2704EB005A4B1C /* music-back.jpg */; };
+		AB41DFD11F2705B1005A4B1C /* button_icon_yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = AB41DFD01F2705B1005A4B1C /* button_icon_yellow.png */; };
+		AB4EF99B1F2452DD00DF9A94 /* fret_not_pressing.png in Resources */ = {isa = PBXBuildFile; fileRef = AB4EF9911F2452DD00DF9A94 /* fret_not_pressing.png */; };
+		AB4EF99C1F2452DD00DF9A94 /* fret_pressing.png in Resources */ = {isa = PBXBuildFile; fileRef = AB4EF9921F2452DD00DF9A94 /* fret_pressing.png */; };
+		AB4EF99D1F2452DD00DF9A94 /* guitar_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = AB4EF9931F2452DD00DF9A94 /* guitar_icon.png */; };
+		AB4EF99E1F2452DD00DF9A94 /* profile_rank_icon_advanced.png in Resources */ = {isa = PBXBuildFile; fileRef = AB4EF9941F2452DD00DF9A94 /* profile_rank_icon_advanced.png */; };
+		AB4EF99F1F2452DD00DF9A94 /* profile_rank_icon_amateur.png in Resources */ = {isa = PBXBuildFile; fileRef = AB4EF9951F2452DD00DF9A94 /* profile_rank_icon_amateur.png */; };
+		AB4EF9A01F2452DD00DF9A94 /* profile_rank_icon_beginner.png in Resources */ = {isa = PBXBuildFile; fileRef = AB4EF9961F2452DD00DF9A94 /* profile_rank_icon_beginner.png */; };
+		AB4EF9A11F2452DD00DF9A94 /* profile_rank_icon_expert.png in Resources */ = {isa = PBXBuildFile; fileRef = AB4EF9971F2452DD00DF9A94 /* profile_rank_icon_expert.png */; };
+		AB4EF9A21F2452DD00DF9A94 /* profile_rank_icon_high_beginner.png in Resources */ = {isa = PBXBuildFile; fileRef = AB4EF9981F2452DD00DF9A94 /* profile_rank_icon_high_beginner.png */; };
+		AB4EF9A31F2452DD00DF9A94 /* profile_rank_icon_high_intermediate.png in Resources */ = {isa = PBXBuildFile; fileRef = AB4EF9991F2452DD00DF9A94 /* profile_rank_icon_high_intermediate.png */; };
+		AB4EF9A41F2452DD00DF9A94 /* profile_rank_icon_intermediate.png in Resources */ = {isa = PBXBuildFile; fileRef = AB4EF99A1F2452DD00DF9A94 /* profile_rank_icon_intermediate.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AB0CD63D1F2734B90046C717 /* button_icon_black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_icon_black.png; sourceTree = "<group>"; };
+		AB0CD6431F2757180046C717 /* note_icon_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = note_icon_1.png; sourceTree = "<group>"; };
+		AB0CD6531F2760750046C717 /* menu_icon_5lines_gray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu_icon_5lines_gray.png; sourceTree = "<group>"; };
+		AB0CD6541F2760750046C717 /* menu_icon_frameset_gray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu_icon_frameset_gray.png; sourceTree = "<group>"; };
+		AB0CD6551F2760750046C717 /* menu_icon_metronorm_gray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu_icon_metronorm_gray.png; sourceTree = "<group>"; };
+		AB0CD6561F2760750046C717 /* menu_icon_start_gray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu_icon_start_gray.png; sourceTree = "<group>"; };
+		AB0CD65B1F27621F0046C717 /* music_background_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = music_background_2.jpg; sourceTree = "<group>"; };
+		AB0CD6651F27754E0046C717 /* note_icon_1_darkblue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = note_icon_1_darkblue.png; sourceTree = "<group>"; };
+		AB0CD6661F27754E0046C717 /* note_icon_1_gray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = note_icon_1_gray.png; sourceTree = "<group>"; };
+		AB0CD6671F27754E0046C717 /* note_icon_1_green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = note_icon_1_green.png; sourceTree = "<group>"; };
+		AB0CD6681F27754E0046C717 /* note_icon_1_orange.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = note_icon_1_orange.png; sourceTree = "<group>"; };
+		AB0CD6691F27754E0046C717 /* note_icon_1_yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = note_icon_1_yellow.png; sourceTree = "<group>"; };
+		AB0CD66F1F278D3B0046C717 /* title_logo_under.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = title_logo_under.png; sourceTree = "<group>"; };
+		AB0CD6711F278DA40046C717 /* title_logo_upper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = title_logo_upper.png; sourceTree = "<group>"; };
+		AB0CD6731F27C6120046C717 /* black_background_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = black_background_1.png; sourceTree = "<group>"; };
+		AB0CD6751F27C8B80046C717 /* blue_background_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = blue_background_2.jpg; sourceTree = "<group>"; };
+		AB0CD6771F2829F50046C717 /* ios */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ios; sourceTree = "<group>"; };
+		AB0CD6791F2F3B100046C717 /* g_Geonekomoji_free.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = g_Geonekomoji_free.ttf; sourceTree = "<group>"; };
 		AB2AD6FA1F20737A00C31F4A /* TSGuitarQuizApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TSGuitarQuizApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB2AD6FD1F20737A00C31F4A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AB2AD6FF1F20737A00C31F4A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +90,38 @@
 		AB2AD7041F20737A00C31F4A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB2AD7071F20737A00C31F4A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AB2AD7091F20737A00C31F4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB2AD7111F20789800C31F4A /* MenuTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuTableViewCell.swift; sourceTree = "<group>"; };
+		AB2AD7121F20789800C31F4A /* MenuTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MenuTableViewCell.xib; sourceTree = "<group>"; };
+		AB2AD7151F207C6000C31F4A /* KB.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KB.swift; sourceTree = "<group>"; };
+		AB2AD7171F20942D00C31F4A /* MenuViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
+		AB2AD7191F20944300C31F4A /* QuizTypeSelectViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuizTypeSelectViewController.swift; sourceTree = "<group>"; };
+		AB2AD71B1F20946A00C31F4A /* QuizFret2ToneViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuizFret2ToneViewController.swift; sourceTree = "<group>"; };
+		AB2AD71D1F20947A00C31F4A /* QuizTone2FretViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuizTone2FretViewController.swift; sourceTree = "<group>"; };
+		AB2AD71F1F20949400C31F4A /* QuizResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuizResultViewController.swift; sourceTree = "<group>"; };
+		AB2AD7211F2094A500C31F4A /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		AB2AD7231F2094B300C31F4A /* ProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		AB2AD7271F20950200C31F4A /* QuizTypeSelectTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuizTypeSelectTableViewCell.swift; sourceTree = "<group>"; };
+		AB2AD7281F20950200C31F4A /* QuizTypeSelectTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = QuizTypeSelectTableViewCell.xib; sourceTree = "<group>"; };
+		AB2AD72B1F20951E00C31F4A /* QuizFret2ToneTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuizFret2ToneTableViewCell.swift; sourceTree = "<group>"; };
+		AB2AD72C1F20951E00C31F4A /* QuizFret2ToneTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = QuizFret2ToneTableViewCell.xib; sourceTree = "<group>"; };
+		AB2AD72F1F20952F00C31F4A /* QuizTone2FretTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuizTone2FretTableViewCell.swift; sourceTree = "<group>"; };
+		AB2AD7301F20952F00C31F4A /* QuizTone2FretTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = QuizTone2FretTableViewCell.xib; sourceTree = "<group>"; };
+		AB2AD7331F20954900C31F4A /* QuizResultTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuizResultTableViewCell.swift; sourceTree = "<group>"; };
+		AB2AD7341F20954900C31F4A /* QuizResultTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = QuizResultTableViewCell.xib; sourceTree = "<group>"; };
+		AB41DFCA1F26DF1D005A4B1C /* quiz_result_failure_icon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = quiz_result_failure_icon.jpg; sourceTree = "<group>"; };
+		AB41DFCB1F26DF1D005A4B1C /* quiz_result_success_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = quiz_result_success_icon.png; sourceTree = "<group>"; };
+		AB41DFCE1F2704EB005A4B1C /* music-back.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "music-back.jpg"; sourceTree = "<group>"; };
+		AB41DFD01F2705B1005A4B1C /* button_icon_yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_icon_yellow.png; sourceTree = "<group>"; };
+		AB4EF9911F2452DD00DF9A94 /* fret_not_pressing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fret_not_pressing.png; sourceTree = "<group>"; };
+		AB4EF9921F2452DD00DF9A94 /* fret_pressing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fret_pressing.png; sourceTree = "<group>"; };
+		AB4EF9931F2452DD00DF9A94 /* guitar_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = guitar_icon.png; sourceTree = "<group>"; };
+		AB4EF9941F2452DD00DF9A94 /* profile_rank_icon_advanced.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = profile_rank_icon_advanced.png; sourceTree = "<group>"; };
+		AB4EF9951F2452DD00DF9A94 /* profile_rank_icon_amateur.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = profile_rank_icon_amateur.png; sourceTree = "<group>"; };
+		AB4EF9961F2452DD00DF9A94 /* profile_rank_icon_beginner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = profile_rank_icon_beginner.png; sourceTree = "<group>"; };
+		AB4EF9971F2452DD00DF9A94 /* profile_rank_icon_expert.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = profile_rank_icon_expert.png; sourceTree = "<group>"; };
+		AB4EF9981F2452DD00DF9A94 /* profile_rank_icon_high_beginner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = profile_rank_icon_high_beginner.png; sourceTree = "<group>"; };
+		AB4EF9991F2452DD00DF9A94 /* profile_rank_icon_high_intermediate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = profile_rank_icon_high_intermediate.png; sourceTree = "<group>"; };
+		AB4EF99A1F2452DD00DF9A94 /* profile_rank_icon_intermediate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = profile_rank_icon_intermediate.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +154,72 @@
 		AB2AD6FC1F20737A00C31F4A /* TSGuitarQuizApp */ = {
 			isa = PBXGroup;
 			children = (
+				AB0CD6791F2F3B100046C717 /* g_Geonekomoji_free.ttf */,
+				AB4EF9A51F2452E500DF9A94 /* img */,
 				AB2AD6FD1F20737A00C31F4A /* AppDelegate.swift */,
 				AB2AD6FF1F20737A00C31F4A /* ViewController.swift */,
 				AB2AD7011F20737A00C31F4A /* Main.storyboard */,
 				AB2AD7041F20737A00C31F4A /* Assets.xcassets */,
 				AB2AD7061F20737A00C31F4A /* LaunchScreen.storyboard */,
 				AB2AD7091F20737A00C31F4A /* Info.plist */,
+				AB2AD7151F207C6000C31F4A /* KB.swift */,
+				AB2AD7171F20942D00C31F4A /* MenuViewController.swift */,
+				AB2AD7111F20789800C31F4A /* MenuTableViewCell.swift */,
+				AB2AD7121F20789800C31F4A /* MenuTableViewCell.xib */,
+				AB2AD7191F20944300C31F4A /* QuizTypeSelectViewController.swift */,
+				AB2AD7271F20950200C31F4A /* QuizTypeSelectTableViewCell.swift */,
+				AB2AD7281F20950200C31F4A /* QuizTypeSelectTableViewCell.xib */,
+				AB2AD71B1F20946A00C31F4A /* QuizFret2ToneViewController.swift */,
+				AB2AD72B1F20951E00C31F4A /* QuizFret2ToneTableViewCell.swift */,
+				AB2AD72C1F20951E00C31F4A /* QuizFret2ToneTableViewCell.xib */,
+				AB2AD71D1F20947A00C31F4A /* QuizTone2FretViewController.swift */,
+				AB2AD72F1F20952F00C31F4A /* QuizTone2FretTableViewCell.swift */,
+				AB2AD7301F20952F00C31F4A /* QuizTone2FretTableViewCell.xib */,
+				AB2AD71F1F20949400C31F4A /* QuizResultViewController.swift */,
+				AB2AD7331F20954900C31F4A /* QuizResultTableViewCell.swift */,
+				AB2AD7341F20954900C31F4A /* QuizResultTableViewCell.xib */,
+				AB2AD7211F2094A500C31F4A /* SettingsViewController.swift */,
+				AB2AD7231F2094B300C31F4A /* ProfileViewController.swift */,
 			);
 			path = TSGuitarQuizApp;
+			sourceTree = "<group>";
+		};
+		AB4EF9A51F2452E500DF9A94 /* img */ = {
+			isa = PBXGroup;
+			children = (
+				AB0CD6771F2829F50046C717 /* ios */,
+				AB0CD6651F27754E0046C717 /* note_icon_1_darkblue.png */,
+				AB0CD6661F27754E0046C717 /* note_icon_1_gray.png */,
+				AB0CD6671F27754E0046C717 /* note_icon_1_green.png */,
+				AB0CD6681F27754E0046C717 /* note_icon_1_orange.png */,
+				AB0CD6691F27754E0046C717 /* note_icon_1_yellow.png */,
+				AB0CD6431F2757180046C717 /* note_icon_1.png */,
+				AB0CD63D1F2734B90046C717 /* button_icon_black.png */,
+				AB41DFD01F2705B1005A4B1C /* button_icon_yellow.png */,
+				AB0CD6711F278DA40046C717 /* title_logo_upper.png */,
+				AB0CD66F1F278D3B0046C717 /* title_logo_under.png */,
+				AB41DFCE1F2704EB005A4B1C /* music-back.jpg */,
+				AB41DFCA1F26DF1D005A4B1C /* quiz_result_failure_icon.jpg */,
+				AB41DFCB1F26DF1D005A4B1C /* quiz_result_success_icon.png */,
+				AB4EF9911F2452DD00DF9A94 /* fret_not_pressing.png */,
+				AB4EF9921F2452DD00DF9A94 /* fret_pressing.png */,
+				AB4EF9931F2452DD00DF9A94 /* guitar_icon.png */,
+				AB4EF9941F2452DD00DF9A94 /* profile_rank_icon_advanced.png */,
+				AB4EF9951F2452DD00DF9A94 /* profile_rank_icon_amateur.png */,
+				AB4EF9961F2452DD00DF9A94 /* profile_rank_icon_beginner.png */,
+				AB4EF9971F2452DD00DF9A94 /* profile_rank_icon_expert.png */,
+				AB4EF9981F2452DD00DF9A94 /* profile_rank_icon_high_beginner.png */,
+				AB4EF9991F2452DD00DF9A94 /* profile_rank_icon_high_intermediate.png */,
+				AB4EF99A1F2452DD00DF9A94 /* profile_rank_icon_intermediate.png */,
+				AB0CD6531F2760750046C717 /* menu_icon_5lines_gray.png */,
+				AB0CD6541F2760750046C717 /* menu_icon_frameset_gray.png */,
+				AB0CD6551F2760750046C717 /* menu_icon_metronorm_gray.png */,
+				AB0CD6561F2760750046C717 /* menu_icon_start_gray.png */,
+				AB0CD65B1F27621F0046C717 /* music_background_2.jpg */,
+				AB0CD6751F27C8B80046C717 /* blue_background_2.jpg */,
+				AB0CD6731F27C6120046C717 /* black_background_1.png */,
+			);
+			name = img;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,9 +281,46 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB0CD67A1F2F3B100046C717 /* g_Geonekomoji_free.ttf in Resources */,
+				AB0CD65C1F27621F0046C717 /* music_background_2.jpg in Resources */,
+				AB0CD66B1F27754E0046C717 /* note_icon_1_gray.png in Resources */,
+				AB4EF99F1F2452DD00DF9A94 /* profile_rank_icon_amateur.png in Resources */,
+				AB0CD6781F2829F50046C717 /* ios in Resources */,
+				AB41DFCC1F26DF1D005A4B1C /* quiz_result_failure_icon.jpg in Resources */,
 				AB2AD7081F20737A00C31F4A /* LaunchScreen.storyboard in Resources */,
+				AB0CD66D1F27754E0046C717 /* note_icon_1_orange.png in Resources */,
+				AB4EF9A21F2452DD00DF9A94 /* profile_rank_icon_high_beginner.png in Resources */,
+				AB0CD66C1F27754E0046C717 /* note_icon_1_green.png in Resources */,
+				AB0CD66E1F27754E0046C717 /* note_icon_1_yellow.png in Resources */,
+				AB0CD6741F27C6120046C717 /* black_background_1.png in Resources */,
+				AB0CD65A1F2760750046C717 /* menu_icon_start_gray.png in Resources */,
+				AB4EF99B1F2452DD00DF9A94 /* fret_not_pressing.png in Resources */,
 				AB2AD7051F20737A00C31F4A /* Assets.xcassets in Resources */,
+				AB4EF9A01F2452DD00DF9A94 /* profile_rank_icon_beginner.png in Resources */,
+				AB2AD7361F20954900C31F4A /* QuizResultTableViewCell.xib in Resources */,
+				AB41DFCF1F2704EB005A4B1C /* music-back.jpg in Resources */,
+				AB0CD6701F278D3B0046C717 /* title_logo_under.png in Resources */,
+				AB41DFD11F2705B1005A4B1C /* button_icon_yellow.png in Resources */,
+				AB0CD6571F2760750046C717 /* menu_icon_5lines_gray.png in Resources */,
+				AB2AD7141F20789800C31F4A /* MenuTableViewCell.xib in Resources */,
+				AB0CD6441F2757180046C717 /* note_icon_1.png in Resources */,
+				AB2AD7321F20952F00C31F4A /* QuizTone2FretTableViewCell.xib in Resources */,
+				AB41DFCD1F26DF1D005A4B1C /* quiz_result_success_icon.png in Resources */,
+				AB0CD6761F27C8B80046C717 /* blue_background_2.jpg in Resources */,
+				AB4EF99D1F2452DD00DF9A94 /* guitar_icon.png in Resources */,
+				AB2AD72A1F20950200C31F4A /* QuizTypeSelectTableViewCell.xib in Resources */,
+				AB4EF9A11F2452DD00DF9A94 /* profile_rank_icon_expert.png in Resources */,
+				AB0CD66A1F27754E0046C717 /* note_icon_1_darkblue.png in Resources */,
+				AB4EF9A41F2452DD00DF9A94 /* profile_rank_icon_intermediate.png in Resources */,
+				AB0CD6591F2760750046C717 /* menu_icon_metronorm_gray.png in Resources */,
+				AB4EF9A31F2452DD00DF9A94 /* profile_rank_icon_high_intermediate.png in Resources */,
+				AB0CD63E1F2734B90046C717 /* button_icon_black.png in Resources */,
+				AB0CD6581F2760750046C717 /* menu_icon_frameset_gray.png in Resources */,
+				AB4EF99E1F2452DD00DF9A94 /* profile_rank_icon_advanced.png in Resources */,
+				AB4EF99C1F2452DD00DF9A94 /* fret_pressing.png in Resources */,
+				AB0CD6721F278DA40046C717 /* title_logo_upper.png in Resources */,
 				AB2AD7031F20737A00C31F4A /* Main.storyboard in Resources */,
+				AB2AD72E1F20951E00C31F4A /* QuizFret2ToneTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,8 +331,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB2AD71E1F20947A00C31F4A /* QuizTone2FretViewController.swift in Sources */,
+				AB2AD7241F2094B300C31F4A /* ProfileViewController.swift in Sources */,
+				AB2AD7161F207C6000C31F4A /* KB.swift in Sources */,
+				AB2AD71A1F20944300C31F4A /* QuizTypeSelectViewController.swift in Sources */,
+				AB2AD7291F20950200C31F4A /* QuizTypeSelectTableViewCell.swift in Sources */,
+				AB2AD72D1F20951E00C31F4A /* QuizFret2ToneTableViewCell.swift in Sources */,
+				AB2AD7221F2094A500C31F4A /* SettingsViewController.swift in Sources */,
+				AB2AD7181F20942D00C31F4A /* MenuViewController.swift in Sources */,
 				AB2AD7001F20737A00C31F4A /* ViewController.swift in Sources */,
+				AB2AD7311F20952F00C31F4A /* QuizTone2FretTableViewCell.swift in Sources */,
 				AB2AD6FE1F20737A00C31F4A /* AppDelegate.swift in Sources */,
+				AB2AD71C1F20946A00C31F4A /* QuizFret2ToneViewController.swift in Sources */,
+				AB2AD7131F20789800C31F4A /* MenuTableViewCell.swift in Sources */,
+				AB2AD7351F20954900C31F4A /* QuizResultTableViewCell.swift in Sources */,
+				AB2AD7201F20949400C31F4A /* QuizResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +507,7 @@
 				AB2AD70E1F20737A00C31F4A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
