@@ -62,6 +62,8 @@
 		AB4EF9A21F2452DD00DF9A94 /* profile_rank_icon_high_beginner.png in Resources */ = {isa = PBXBuildFile; fileRef = AB4EF9981F2452DD00DF9A94 /* profile_rank_icon_high_beginner.png */; };
 		AB4EF9A31F2452DD00DF9A94 /* profile_rank_icon_high_intermediate.png in Resources */ = {isa = PBXBuildFile; fileRef = AB4EF9991F2452DD00DF9A94 /* profile_rank_icon_high_intermediate.png */; };
 		AB4EF9A41F2452DD00DF9A94 /* profile_rank_icon_intermediate.png in Resources */ = {isa = PBXBuildFile; fileRef = AB4EF99A1F2452DD00DF9A94 /* profile_rank_icon_intermediate.png */; };
+		ABB210FA1F84C2410014887C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ABB210F81F84C2410014887C /* Default-568h@2x.png */; };
+		ABB210FB1F84C2410014887C /* Default-667h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ABB210F91F84C2410014887C /* Default-667h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -122,6 +124,8 @@
 		AB4EF9981F2452DD00DF9A94 /* profile_rank_icon_high_beginner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = profile_rank_icon_high_beginner.png; sourceTree = "<group>"; };
 		AB4EF9991F2452DD00DF9A94 /* profile_rank_icon_high_intermediate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = profile_rank_icon_high_intermediate.png; sourceTree = "<group>"; };
 		AB4EF99A1F2452DD00DF9A94 /* profile_rank_icon_intermediate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = profile_rank_icon_intermediate.png; sourceTree = "<group>"; };
+		ABB210F81F84C2410014887C /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		ABB210F91F84C2410014887C /* Default-667h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-667h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -187,6 +191,8 @@
 		AB4EF9A51F2452E500DF9A94 /* img */ = {
 			isa = PBXGroup;
 			children = (
+				ABB210F81F84C2410014887C /* Default-568h@2x.png */,
+				ABB210F91F84C2410014887C /* Default-667h@2x.png */,
 				AB0CD6771F2829F50046C717 /* ios */,
 				AB0CD6651F27754E0046C717 /* note_icon_1_darkblue.png */,
 				AB0CD6661F27754E0046C717 /* note_icon_1_gray.png */,
@@ -306,6 +312,7 @@
 				AB0CD6441F2757180046C717 /* note_icon_1.png in Resources */,
 				AB2AD7321F20952F00C31F4A /* QuizTone2FretTableViewCell.xib in Resources */,
 				AB41DFCD1F26DF1D005A4B1C /* quiz_result_success_icon.png in Resources */,
+				ABB210FA1F84C2410014887C /* Default-568h@2x.png in Resources */,
 				AB0CD6761F27C8B80046C717 /* blue_background_2.jpg in Resources */,
 				AB4EF99D1F2452DD00DF9A94 /* guitar_icon.png in Resources */,
 				AB2AD72A1F20950200C31F4A /* QuizTypeSelectTableViewCell.xib in Resources */,
@@ -317,6 +324,7 @@
 				AB0CD63E1F2734B90046C717 /* button_icon_black.png in Resources */,
 				AB0CD6581F2760750046C717 /* menu_icon_frameset_gray.png in Resources */,
 				AB4EF99E1F2452DD00DF9A94 /* profile_rank_icon_advanced.png in Resources */,
+				ABB210FB1F84C2410014887C /* Default-667h@2x.png in Resources */,
 				AB4EF99C1F2452DD00DF9A94 /* fret_pressing.png in Resources */,
 				AB0CD6721F278DA40046C717 /* title_logo_upper.png in Resources */,
 				AB2AD7031F20737A00C31F4A /* Main.storyboard in Resources */,
