@@ -158,7 +158,9 @@
 		AB2AD6FC1F20737A00C31F4A /* TSGuitarQuizApp */ = {
 			isa = PBXGroup;
 			children = (
-				AB0CD6791F2F3B100046C717 /* g_Geonekomoji_free.ttf */,
+				ABB210FC1F88B29A0014887C /* etc */,
+				ABB210F81F84C2410014887C /* Default-568h@2x.png */,
+				ABB210F91F84C2410014887C /* Default-667h@2x.png */,
 				AB4EF9A51F2452E500DF9A94 /* img */,
 				AB2AD6FD1F20737A00C31F4A /* AppDelegate.swift */,
 				AB2AD6FF1F20737A00C31F4A /* ViewController.swift */,
@@ -191,8 +193,6 @@
 		AB4EF9A51F2452E500DF9A94 /* img */ = {
 			isa = PBXGroup;
 			children = (
-				ABB210F81F84C2410014887C /* Default-568h@2x.png */,
-				ABB210F91F84C2410014887C /* Default-667h@2x.png */,
 				AB0CD6771F2829F50046C717 /* ios */,
 				AB0CD6651F27754E0046C717 /* note_icon_1_darkblue.png */,
 				AB0CD6661F27754E0046C717 /* note_icon_1_gray.png */,
@@ -226,6 +226,14 @@
 				AB0CD6731F27C6120046C717 /* black_background_1.png */,
 			);
 			name = img;
+			sourceTree = "<group>";
+		};
+		ABB210FC1F88B29A0014887C /* etc */ = {
+			isa = PBXGroup;
+			children = (
+				AB0CD6791F2F3B100046C717 /* g_Geonekomoji_free.ttf */,
+			);
+			name = etc;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -481,6 +489,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = jp.tsaeki.TSGuitarQuizApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -493,6 +502,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = jp.tsaeki.TSGuitarQuizApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
