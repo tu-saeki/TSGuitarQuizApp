@@ -88,7 +88,7 @@ class ProfileViewController: UIViewController {
                     + "（挑戦回数　" + String(numChallenges[i]) + ")"
                     + (isCleares[i] ? "　【合格♪】" : "") + " \n"
 
-                tmpText = tmpText + "　★ベストスコア★ " + String(bestDateTime[i]) + "\n"
+                tmpText = tmpText + "　★ベストスコア★ <" + String(bestDateTime[i]) + "> \n"
                 tmpText = tmpText + "　・得点率　：" + String(bestScoreRates[i]) + "% \n"
                 tmpText = tmpText + "　・所要時間：" + String(bestTimeSec[i]) + "秒 \n\n"
             }

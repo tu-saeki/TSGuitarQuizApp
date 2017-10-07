@@ -205,8 +205,8 @@ class QuizTone2FretViewController: UIViewController, UITableViewDataSource, UITa
         // 選択肢ラベルをセットする
         tmpCell.quizTextLabel.text = String(indexPath.row + 1) + "．"
             + KB.MUSIC_GUITAR_STRINGS_NAMES[currentStringIdFretIdTone[0]] + "弦の"
-            + String(currentStringIdFretIdTone[1]) + "フレット"
-            + (currentStringIdFretIdTone[1] == 0 ? "(開放)" : "")
+            + "\n　 " + String(currentStringIdFretIdTone[1]) + "フレット"
+            + (currentStringIdFretIdTone[1] == 0 ? "\n　 (開放)" : "")
         
         return tmpCell
     }

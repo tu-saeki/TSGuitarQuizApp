@@ -342,12 +342,12 @@ class QuizResultViewController: UIViewController, UITableViewDataSource, UITable
             }
         }
         
-        tmpComment = tmpComment + "正解：" + String(userScore)
+        tmpComment = tmpComment + "正解　　：" + String(userScore)
                 + " / " + String(quizCorrectivities.count)
                 + "問 (" + String(userScoreRate) + "%) [目標："
-                + String(passingScoreRate) + "%] \n"
+                + String(passingScoreRate) + "%以上] \n"
                 + "所要時間：" + String(((Int)(quizUserTime)))
-                + "秒 [目標：" + String(passingTimeSec) + "秒]"
+                + "秒 [目標：" + String(passingTimeSec) + "秒以下]"
         
         return tmpComment
     }
