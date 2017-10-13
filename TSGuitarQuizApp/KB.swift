@@ -1093,7 +1093,7 @@ class KB {
     static func getQuizTypesBestTimeSec (index : Int) -> Int {
         
         let ud = UserDefaults.standard
-        let timeSec = ud.integer(forKey: getUserDefaultsKeyQuizTypesBestScoreRate(index: index))
+        let timeSec = ud.integer(forKey: getUserDefaultsKeyQuizTypesBestTimeSec(index: index))
         
         return timeSec
     }

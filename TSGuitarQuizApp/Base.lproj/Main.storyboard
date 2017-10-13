@@ -66,7 +66,7 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="dB9-Rk-ars">
-                        <barButtonItem key="backBarButtonItem" title="戻る♪" id="QYY-L4-ch7"/>
+                        <barButtonItem key="backBarButtonItem" title="　" id="ANj-En-12E"/>
                     </navigationItem>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
@@ -111,7 +111,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                             </imageView>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="ランク情報" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="sew-iL-xCd">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="ランク情報" textAlignment="natural" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sew-iL-xCd">
                                 <rect key="frame" x="74" y="84" width="230" height="38"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
@@ -130,7 +130,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" title="フレットマスター" id="weK-Za-XPw">
-                        <barButtonItem key="backBarButtonItem" title="戻る♪" id="LKq-EY-cKQ"/>
+                        <barButtonItem key="backBarButtonItem" title="　" id="grQ-MK-YEj"/>
                     </navigationItem>
                     <connections>
                         <outlet property="menuRankExplanation" destination="sew-iL-xCd" id="wOS-tM-1wl"/>
@@ -315,7 +315,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" title="フレットマスター" id="jY7-mf-aZs">
-                        <barButtonItem key="backBarButtonItem" title="戻る♪" id="oTC-qc-vlE"/>
+                        <barButtonItem key="backBarButtonItem" title="　" id="HLp-WH-OoM"/>
                     </navigationItem>
                     <connections>
                         <outlet property="settingsAccidentalSegmentControl" destination="FGW-Us-6UI" id="aED-Rt-dGy"/>
@@ -378,7 +378,7 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="ランク情報" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="gvM-uQ-RLW">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="ランク情報" textAlignment="natural" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gvM-uQ-RLW">
                                 <rect key="frame" x="119" y="130" width="185" height="61"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
@@ -404,7 +404,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" title="フレットマスター" id="9eF-RZ-Me8">
-                        <barButtonItem key="backBarButtonItem" title="戻る♪" id="aFp-Tc-j8N"/>
+                        <barButtonItem key="backBarButtonItem" title="　" id="fDq-90-sO9"/>
                     </navigationItem>
                     <connections>
                         <outlet property="profileQuizResultsTextView" destination="Aex-d6-LjN" id="xeq-Wd-owC"/>
@@ -691,7 +691,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" title="フレットマスター" id="QbV-IC-Fz2">
-                        <barButtonItem key="backBarButtonItem" title="戻る♪" id="tKq-qr-iqe"/>
+                        <barButtonItem key="backBarButtonItem" title="　" id="a8t-dd-jpG"/>
                     </navigationItem>
                     <connections>
                         <outlet property="quizFret2ToneChoiceTitleLabel" destination="eTJ-5v-c9a" id="WSP-T9-e2p"/>
@@ -838,7 +838,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" title="フレットマスター" id="HlX-mM-UyK">
-                        <barButtonItem key="backBarButtonItem" title="戻る♪" id="AZB-33-lhA"/>
+                        <barButtonItem key="backBarButtonItem" title="　" id="MQX-cq-Fx7"/>
                     </navigationItem>
                     <connections>
                         <outlet property="quizResultChoiceTitleLabel" destination="Zi2-2B-IKL" id="AYf-lZ-ybG"/>
@@ -935,7 +935,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" title="フレットマスター" id="ogh-Hx-jX0">
-                        <barButtonItem key="backBarButtonItem" title="戻る♪" id="rmu-rj-NTz"/>
+                        <barButtonItem key="backBarButtonItem" title="　" id="V3i-Oe-UCe"/>
                     </navigationItem>
                     <connections>
                         <outlet property="quizTone2FretChoiceTitleLabel" destination="1TK-sf-1Jb" id="Z1G-vI-1u7"/>
@@ -997,7 +997,7 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="ランク情報" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="WQx-5z-TP8">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="ランク情報" textAlignment="natural" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WQx-5z-TP8">
                                 <rect key="frame" x="74" y="84" width="230" height="38"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
@@ -1008,7 +1008,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" title="フレットマスター" id="kGb-yf-gv8">
-                        <barButtonItem key="backBarButtonItem" title="戻る♪" id="jBp-KI-NLS"/>
+                        <barButtonItem key="backBarButtonItem" title="　" id="Lhq-6i-Jjb"/>
                     </navigationItem>
                     <connections>
                         <outlet property="quizTypeSelectRankExplanation" destination="WQx-5z-TP8" id="01Y-Fp-CQi"/>
